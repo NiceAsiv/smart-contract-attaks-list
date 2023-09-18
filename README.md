@@ -1,4 +1,4 @@
-#⚔️ A Historical Collection of Reentrancy Attacks
+# ⚔️ A Historical Collection of Reentrancy Attacks
 👮‍♂️ Sanity checks License: AGPL v3
 
 📌 Definition of a Reentrancy Attack
