@@ -1,10 +1,37 @@
 # ⚔️ A Historical Collection of Smart contract Attacks
-📚 Types of Smart Attacks
-
-
-
-
-
+📚 [Types of Smart Attacks](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
+1. **Insufficient Gas Griefing**
+2. **Reentrancy**
+3. **Integer Overflow and Underflow**
+4. **Timestamp Dependence**
+5. **Authorization Through tx.origin**
+6. **Floating Pragma**
+7. **Outdated Compiler Version**
+8. **Unsafe Low-Level Call**
+9. **Uninitialized Storage Pointer**
+10. **Assert Violation**
+11. **Use of Deprecated Functions**
+12. **Delegatecall to Untrusted Callee**
+13. **Signature Malleability**
+14. **Incorrect Constructor Name**
+15. **Shadowing State Variables**
+16. **Weak Sources of Randomness from Chain Attributes**
+17. **Missing Protection against Signature Replay Attacks**
+18. **Requirement Validation**
+19. **Write to Arbitrary Storage Location**
+20. **Incorrect Inheritance Order**
+21. **Presence of Unused Variables**
+22. **Unencrypted Private Data On-Chain**
+23. **Inadherence to Standards**
+24. **Asserting Contract from Code Size**
+25. **Transaction-Ordering Dependence**
+26. **DoS with Block Gas Limit**
+27. **DoS with (Unexpected) revert**
+28. **Unexpected ecrecover null address**
+29. **Default Visibility**
+30. **Insufficient Access Control**
+31. **Off-By-One**
+32. **Lack of Precision**
 
 A chronological list of smart contract attacks to date.
 
